@@ -29,3 +29,26 @@ This is a simple yet powerful **Food Recipe Web App** built using **HTML, CSS, a
 ├── style.css          # Styling and layout
 ├── script.js          # Core JavaScript logic
 └── README.md          # This file
+
+\\
+🔧 How It Works
+User searches for a dish using the input field.
+
+App fetches matching recipes from TheMealDB API.
+
+Displays recipe cards with thumbnail, name, area, and tags.
+
+Clicking "View More" shows ingredients and full cooking instructions.
+
+Google Translate widget enables real-time translation of page content.
+
+🌐 How to Use
+Clone or download this repo.
+
+Open index.html in your browser.
+
+Enter a dish name in the search box (e.g., "pasta", "biryani").
+
+Click "Search" and browse the results.
+
+Use the top-right dropdown to change the language.
